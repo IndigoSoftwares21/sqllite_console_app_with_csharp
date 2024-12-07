@@ -1,7 +1,7 @@
 # To-Do App Documentation
 
 ## Description
-This is a simple project DBMS project for School
+This is a simple project DBMS project for School.
 
 ## Features
 This To-Do App supports the following operations:
